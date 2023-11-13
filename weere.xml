@@ -14,8 +14,8 @@
 <script src="https://cdn.jsdelivr.net/gh/ruffleforunblockedgame/ruf2023@main/ruffle.js"></script>
 
 <object width="1100" height="700">
-    <param name="movie" value="https://cdn.jsdelivr.net/gh/swf-sites/swf@main/elec2.swf">
-    <embed src="https://cdn.jsdelivr.net/gh/swf-sites/swf@main/elec2.swf" width="100%" height="100%">
+    <param name="movie" value="https://cdn.jsdelivr.net/gh/google-chrume/new@main/Sports_Heads_Football_European_Edition.swf">
+    <embed src="https://cdn.jsdelivr.net/gh/google-chrume/new@main/Sports_Heads_Football_European_Edition.swf" width="100%" height="100%">
 </body>
 </html>
 ]]></Content>
